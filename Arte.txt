@@ -1,0 +1,12 @@
+1;¿Quién pintó el “Guernica”?;Picasso
+2;¿Qué italiano puso música al Othelo de Shakespeare?;Verdi
+3;¿Con qué nombre firmaba Van Gogh sus obras?;Vincent
+4;¿Qué filósofo creó “El mito de la caverna”?;Platon
+5;¿Quién escribió “Sueño de una noche de verano”?;Shakespeare
+6;¿Cómo se llama el caballo de Don Quijote de la Mancha?;Rocinante
+7;¿Qué animal mitológico da nombre a un libro de Thomas Hobbe?;Leviatan
+8;¿Qué pintor noruego pintó “El grito”?;Munch
+9;¿De que país es originaria la famosa banda “Europe”?;Suecia
+10;¿Qué famoso artista dijo la frase "La simplicidad es la sofisticación definitiva"?;Da Vinci
+11;¿En que siglo nació Velázquez (Numeros Romanos)?;XVII
+12;¿En que museo está la Mona Lisa?;Louvre

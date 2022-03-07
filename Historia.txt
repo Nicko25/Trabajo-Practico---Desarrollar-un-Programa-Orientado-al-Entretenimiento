@@ -1,0 +1,12 @@
+1;¿En que guerra combatió Juana de Arco?;Guerra de los cien años
+2;¿Cuál fue el primer país en ser invadido por Alemania en 1939?;Polonia
+3;¿Que famoso astrónomo sostenía que la tierra giraba alrededor del Sol?;Galileo Galilei
+4;¿Qué hito informático de 1969 cambiaría radicalmente el curso de la historia de la humanidad?;Internet
+5;¿Quién abolió la esclavitud en Estados Unidos?;Lincoln 
+6;¿Cuál fue el nombre del primer animal en ser llevado al espacio?;Laika 
+7;¿Cúal fue la primer batalla ganada por San Martin?;San Lorenzo 
+8;¿En qué país apareció la primera Carta Constitucional?;Francia 
+9;¿En que país surgió el Renacimiento?;Italia
+10;¿En qué ciudad de Inglaterra se produjo el Gran Incendio?;Londres
+11;¿Como se llama el Siglo en que se destacó la literatura y arte en castellano?;Siglo de Oro
+12;¿Cuál fue la primera mujer latinoamericana en obtener un Premio Nobel de Literatura?;Gabriela Mistral

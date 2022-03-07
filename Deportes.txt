@@ -1,0 +1,12 @@
+1;¿Quién fue el único piloto de formula 1 en conseguir 5 campeonatos con 4 marcas diferentes?;Fangio
+2;¿En que deporte de pelota un equipo consigue ganar un set al llegar a 25 puntos?;Voleibol
+3;¿Dónde se jugó el primer mundial de futbol?;Uruguay
+4;¿Cuál es el nombre del famoso equipo de Rugby de Nueva Zelanda?;All Blacks
+5;¿En qué equipo de la NBA jugó Kobe Bryant desde 1996?;Angeles Lakers
+6;¿Quién es el futbolista con más goles en la liga española?;Messi
+7;¿Quién ganó el mundial de fútbol de 2002 (Corea/Japon)?;Brasil
+8;¿Como se llama la competencia que incluye ciclismo, natacion y running en un mismo evento?;Triatlon
+9;¿Cómo se llama el lugar donde se realizan las carreras de caballos?;Hipodromo
+10;¿A qué deporte pertenece el córner corto?;Hockey
+11;¿Cómo se llamaba la pelota del Mundial de fútbol en 1978 en Argentina?;Tango
+12;¿Cual es el deporte nacional de Inglaterra?;Criquet

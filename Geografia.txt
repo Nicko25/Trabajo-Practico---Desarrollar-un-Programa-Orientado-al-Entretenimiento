@@ -1,0 +1,12 @@
+1;¿Cuál es el río más caudaloso del mundo?;Amazonas
+2;¿Cómo se llama el meridiano que divide el mundo en dos mitades?;Greenwich
+3;¿Cual es la ciudad mas poblada del mundo?;Tokio
+4;¿Cuál es el país del mundo con mayor población?;China
+5;¿Cuál es el río mas largo de Europa?;Volga
+6;¿Cuál es el país de los 1.000 lagos?;Finlandia
+7;¿En qué país estan las ruinas de Esparta?;Grecia
+8;¿De qué país es capital Dodoma?;Tanzania
+9;¿Que mar famoso tiene el continente asiático?;Mar Muerto
+10;¿Cual es el desierto mas grande del mundo?;Antartico
+11;¿Cual es la ciudad estado mas pequeña del mundo?;Vaticano
+12;El Everest se encuentra entre las fronteras de china y...;Nepal
